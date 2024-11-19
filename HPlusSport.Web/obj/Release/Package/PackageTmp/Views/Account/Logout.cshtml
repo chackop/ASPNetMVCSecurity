@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Logout";
+    Layout = "~/Views/_Shared/_LayoutHome.cshtml";
+}
+
+<h2>Logout</h2>
+
+@using(Html.BeginForm("Logout", "Account", FormMethod.Post))
+{
+    <input type="submit" value="Logout" />
+    @Html.AntiForgeryToken()
+}

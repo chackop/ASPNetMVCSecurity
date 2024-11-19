@@ -1,0 +1,273 @@
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/WebApiSecurity.dll.config
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/WebApiSecurity.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/WebApiSecurity.pdb
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/csc.exe
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/csc.exe.config
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/csc.rsp
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/csi.exe
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/csi.exe.config
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/csi.rsp
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.AppContext.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Console.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.IO.Compression.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.IO.Pipes.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.Claims.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.ValueTuple.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Xml.XPath.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/vbc.exe
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/vbc.exe.config
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/vbc.rsp
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/VBCSCompiler.exe
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/Newtonsoft.Json.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/System.Net.Http.Formatting.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/System.Web.Http.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/System.Web.Http.WebHost.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/Newtonsoft.Json.xml
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/System.Net.Http.Formatting.xml
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/System.Web.Http.xml
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/System.Web.Http.WebHost.xml
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/de/System.Net.Http.Formatting.resources.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/de/System.Web.Http.resources.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/bin/de/System.Web.Http.WebHost.resources.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/obj/Debug/HPlusSport.API.csprojAssemblyReference.cache
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/obj/Debug/HPlusSport.API.csproj.CoreCompileInputs.cache
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/obj/Debug/HPlusSport.API.csproj.CopyComplete
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/obj/Debug/WebApiSecurity.dll
+C:/Users/cwenz/source/repos/AspNetSecurity/WebApiSecurity/obj/Debug/WebApiSecurity.pdb
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/HPlusSport.API.dll.config
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/HPlusSport.API.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/HPlusSport.API.pdb
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csc.exe
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csc.exe.config
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csc.rsp
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csi.exe
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csi.exe.config
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csi.rsp
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.AppContext.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Console.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.Compression.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.Pipes.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Claims.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.ValueTuple.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.XPath.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/vbc.exe
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/vbc.exe.config
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/vbc.rsp
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/VBCSCompiler.exe
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/Newtonsoft.Json.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Net.Http.Formatting.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.WebHost.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/Newtonsoft.Json.xml
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Net.Http.Formatting.xml
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.xml
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.WebHost.xml
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/de/System.Net.Http.Formatting.resources.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/de/System.Web.Http.resources.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/bin/de/System.Web.Http.WebHost.resources.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.csprojAssemblyReference.cache
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.CoreCompileInputs.cache
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.CopyComplete
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.dll
+C:/Users/cwenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.pdb
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/HPlusSport.API.dll.config
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/HPlusSport.API.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/HPlusSport.API.pdb
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csc.exe
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csc.exe.config
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csc.rsp
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csi.exe
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csi.exe.config
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/csi.rsp
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.AppContext.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Console.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.Compression.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.IO.Pipes.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Claims.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.ValueTuple.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/vbc.exe
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/vbc.exe.config
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/vbc.rsp
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/VBCSCompiler.exe
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/Newtonsoft.Json.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Net.Http.Formatting.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.WebHost.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/Newtonsoft.Json.xml
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Net.Http.Formatting.xml
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.xml
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.WebHost.xml
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/de/System.Net.Http.Formatting.resources.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/de/System.Web.Http.resources.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/de/System.Web.Http.WebHost.resources.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.csprojAssemblyReference.cache
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.CoreCompileInputs.cache
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.CopyComplete
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/obj/Debug/HPlusSport.API.pdb
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Cors.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.Cors.dll
+C:/Users/Christian Wenz/source/repos/HPlusSport/HPlusSport.API/bin/System.Web.Http.Cors.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/HPlusSport.API.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/HPlusSport.API.pdb
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/csc.exe
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/csc.exe.config
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/csc.rsp
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/csi.exe
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/csi.exe.config
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/csi.rsp
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.AppContext.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Collections.Immutable.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Console.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.IO.Compression.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.IO.FileSystem.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.IO.Pipes.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Reflection.Metadata.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.AccessControl.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.Claims.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.ValueTuple.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Xml.XPath.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/vbc.exe
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/vbc.exe.config
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/vbc.rsp
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/VBCSCompiler.exe
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/roslyn/VBCSCompiler.exe.config
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/Newtonsoft.Json.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Net.Http.Formatting.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Cors.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Http.Cors.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Http.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Http.WebHost.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Http.Cors.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/Newtonsoft.Json.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Net.Http.Formatting.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Http.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/System.Web.Http.WebHost.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/de/System.Net.Http.Formatting.resources.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/de/System.Web.Http.resources.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/bin/de/System.Web.Http.WebHost.resources.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.AssemblyReference.cache
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.CoreCompileInputs.cache
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/obj/Debug/HPlusSport.API.csproj.CopyComplete
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/obj/Debug/HPlusSport.API.dll
+/Users/chacs/Documents/code/private/ASPNetMVCSecurity/HPlusSport.API/obj/Debug/HPlusSport.API.pdb

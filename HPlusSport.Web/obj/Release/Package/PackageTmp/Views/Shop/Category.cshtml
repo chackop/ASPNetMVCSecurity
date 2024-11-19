@@ -1,0 +1,29 @@
+﻿@model HPlusSport.Web.Models.Category
+
+@{
+    ViewBag.Title = "Category";
+    Layout = "~/Views/_Shared/_LayoutHome.cshtml";
+}
+
+<header class="woocommerce-products-header">
+    <h1 class="woocommerce-products-header__title page-title">@Model.Name</h1>
+</header>
+
+<div class="storefront-sorting"><div class="woocommerce-notices-wrapper"></div></div>
+<ul class="products columns-4">
+    @foreach (var article in Model.Articles)
+    {
+        <li class="product-category product">
+            <h2 class="woocommerce-loop-category__title">
+                @article.Name (@(article.IsAvailable ? @article.Price.ToString("0.00") : "unavailable"))
+                @if (article.IsAvailable) {
+                    using (Html.BeginForm("AddToCart", "Shop", new { id = article.Id }, FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                    <input type="submit" value="Add to cart" />
+                    }
+                }
+            </h2>
+        </li>
+    }
+</ul>

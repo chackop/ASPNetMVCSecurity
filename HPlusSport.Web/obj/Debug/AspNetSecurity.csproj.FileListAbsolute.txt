@@ -1,0 +1,187 @@
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\AspNetSecurity.dll.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\AspNetSecurity.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\AspNetSecurity.pdb
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\csc.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\csc.exe.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\csc.rsp
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\csi.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\csi.exe.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\csi.rsp
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.AppContext.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Console.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\vbc.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\vbc.exe.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\vbc.rsp
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\Newtonsoft.Json.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Net.Http.Formatting.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Helpers.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.WebHost.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Mvc.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Razor.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Razor.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Razor.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Razor.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Helpers.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Mvc.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\Newtonsoft.Json.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Net.Http.Formatting.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.WebHost.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Razor.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Webpages.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Webpages.Razor.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Helpers.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Mvc.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Net.Http.Formatting.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Http.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Http.WebHost.resources.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.csproj.CopyComplete
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.dll
+C:\Users\Christian\Documents\Visual Studio 2017\Projects\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.pdb
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\AspNetSecurity.dll.config
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\AspNetSecurity.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\AspNetSecurity.pdb
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\csc.exe
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\csc.exe.config
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\csc.rsp
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\csi.exe
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\csi.exe.config
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\csi.rsp
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.AppContext.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Console.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.Compression.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Claims.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.ValueTuple.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\vbc.exe
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\vbc.exe.config
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\vbc.rsp
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\VBCSCompiler.exe
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\EntityFramework.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\EntityFramework.SqlServer.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Newtonsoft.Json.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Net.Http.Formatting.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Helpers.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.WebHost.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Mvc.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Razor.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Razor.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\EntityFramework.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\EntityFramework.SqlServer.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Razor.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Webpages.Razor.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Helpers.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Mvc.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Newtonsoft.Json.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Net.Http.Formatting.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\System.Web.Http.WebHost.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Razor.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Webpages.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Webpages.Deployment.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Webpages.Razor.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Helpers.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Mvc.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Net.Http.Formatting.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Http.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\de\System.Web.Http.WebHost.resources.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.csprojAssemblyReference.cache
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.csproj.CoreCompileInputs.cache
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.csproj.CopyComplete
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\obj\Debug\AspNetSecurity.pdb
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.Security.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Owin.dll
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.Security.xml
+C:\Users\cwenz\source\repos\AspNetSecurity\AspNetSecurity\bin\Microsoft.Owin.Security.Cookies.xml
