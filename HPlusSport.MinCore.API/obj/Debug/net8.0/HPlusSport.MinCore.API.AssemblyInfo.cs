@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HPlusSport.MinCore.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+538119b3147ff3cbf578dc9c180cfd78dfe590b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade04e3db7fd3fc172d050196a38df6e107415f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HPlusSport.MinCore.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HPlusSport.MinCore.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
