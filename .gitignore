@@ -1,0 +1,26 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Pp]ublish/
+*.dll.config.bak
+
+# NuGet packages (restored by `nuget restore` / `dotnet restore`)
+/packages/
+
+# IDE and user-specific files
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases (LocalDB creates these; backup copies don't belong in git)
+HPlusSport.Web/App_Data/*.ldf
+HPlusSport.Web/App_Data/*Kopie*
