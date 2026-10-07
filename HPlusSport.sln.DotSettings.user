@@ -4,4 +4,6 @@
 	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1114112</s:Int64>
 	
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentDotNetCliExePaths/=_002Fopt_002Fhomebrew_002FCellar_002Fdotnet_002F9_002E0_002E6_002Flibexec_002Fdotnet/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=0391f19e_002Db05f_002D4d87_002Da50c_002Dc2c6b135b942_0023HPlusSport_002EWeb/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=d90359c0_002Dd9dd_002D4bea_002Dab67_002D41c071819abe_0023HPlusSport_002EAPI/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
