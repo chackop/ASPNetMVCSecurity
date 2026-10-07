@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S6xaqSW4mCzXVidbLdnhtXnpNZgHHHveVrCTbFpGgiI=",
+  "Hash": "1t6jonJr877X6bqo4VIYM5HDHfuiTONFylMvvjNISM8=",
   "Source": "HPlusSport.MinCore.API",
   "BasePath": "_content/HPlusSport.MinCore.API",
   "Mode": "Default",
@@ -174,7 +174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 Oct 2026 10:09:04 GMT"
+          "Value": "Wed, 07 Oct 2026 12:23:46 GMT"
         },
         {
           "Name": "Link",
@@ -223,7 +223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 Oct 2026 10:09:04 GMT"
+          "Value": "Wed, 07 Oct 2026 12:23:46 GMT"
         },
         {
           "Name": "Link",
